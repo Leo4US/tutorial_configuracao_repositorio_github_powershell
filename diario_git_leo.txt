@@ -1,8 +1,8 @@
 ﻿Diário de Bordo – Configuração do Git no PowerShell  
-Autor: Leo (Leo4US)  
 Data: 06/2025
+(Leo4US)
 
-Este é meu registro pessoal da configuração de um repositório no GitHub pelo PowerShell no Windows. Abaixo, registro todos os comandos utilizados, etapas seguidas e dificuldades enfrentadas durante o processo. Isso me permitirá repetir o procedimento com segurança no futuro ou ajudar a mim mesmo (kk) ou outras pessoas.
+Registro pessoal da configuração de um repositório no GitHub pelo PowerShell / Windows. Abaixo, registro todos os comandos utilizados, etapas seguidas e dificuldades, durante o processo. Isso me permitirá repetir o procedimento com segurança no futuro ou ajudar a mim mesmo (hehe) ou outras pessoas.
 
 1. Clonei o repositório remoto (tem botãozin ali ao lado, depois de criado o rep.):
 cd C:\Users\labo2
